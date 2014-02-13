@@ -6,7 +6,7 @@ Getting Started:
     pip install virtualenv
     virtualenv --no-site-packages nodevemberenv
     source nodevemberenv/bin/activate
-    git clone git@github.com:nodevember/nodevember.git pytn
+    git clone git@github.com:nodevember/nodevember.git nodevember
     cd nodevember
     pip install -r requirements.txt
     python manage.py syncdb
