@@ -1,1 +1,1 @@
-web: gunicorn pytn.wsgi
+web: gunicorn nodevember.wsgi
